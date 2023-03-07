@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
                     //Fifth Commit By Second User
                     //Sixth Commit
                     //Commit from Another Branch
-                    // Changes to be memove
+                    // Changes to be memovegit log
                 }
             }
         }
