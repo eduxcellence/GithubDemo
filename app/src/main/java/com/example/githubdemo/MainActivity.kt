@@ -43,6 +43,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String) {
     Text(text = "Hello $name!")
+    //chnages 2
 }
 
 @Preview(showBackground = true)
