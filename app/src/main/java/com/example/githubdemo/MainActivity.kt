@@ -32,6 +32,7 @@ class MainActivity : ComponentActivity() {
                     // Changes to be memove
                     //author name changed
                     //global changed
+                    //commit -a
                 }
             }
         }
