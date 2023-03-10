@@ -29,7 +29,11 @@ class MainActivity : ComponentActivity() {
                     //Fifth Commit By Second User
                     //Sixth Commit
                     //Commit from Another Branch
-                    //merge
+                    // Changes to be memove
+                    //author name changed
+                    //global changed
+                    //commit -a
+                    //stahs
                 }
             }
         }
