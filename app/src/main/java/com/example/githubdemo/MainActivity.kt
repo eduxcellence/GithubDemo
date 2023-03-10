@@ -34,6 +34,7 @@ class MainActivity : ComponentActivity() {
                     //global changed
                     //commit -a
                     //stahs
+                    //made changes
                 }
             }
         }
