@@ -31,6 +31,7 @@ class MainActivity : ComponentActivity() {
                     //Commit from Another Branch
                     // Changes to be memove
                     //author name changed
+                    //global changed
                 }
             }
         }
