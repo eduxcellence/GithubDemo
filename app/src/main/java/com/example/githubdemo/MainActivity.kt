@@ -33,6 +33,7 @@ class MainActivity : ComponentActivity() {
                     //author name changed
                     //global changed
                     //commit -a
+                    //stahs
                 }
             }
         }
