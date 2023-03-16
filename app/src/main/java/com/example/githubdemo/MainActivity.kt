@@ -34,6 +34,8 @@ class MainActivity : ComponentActivity() {
                     //global changed
                     //commit -a
                     //stahs
+                    //made changes
+                    // done some changes here
                 }
             }
         }
@@ -43,6 +45,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String) {
     Text(text = "Hello $name!")
+    //chnages 2
 }
 
 @Preview(showBackground = true)
