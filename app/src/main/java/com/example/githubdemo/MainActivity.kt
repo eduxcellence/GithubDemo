@@ -38,6 +38,7 @@ class MainActivity : ComponentActivity() {
                     // done some changes here
                     //commit now
                     //Commit From MEnu
+                    //Second Commit from Menu
                 }
             }
         }
