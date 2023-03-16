@@ -35,6 +35,7 @@ class MainActivity : ComponentActivity() {
                     //commit -a
                     //stahs
                     //made changes
+                    // done some changes here 
                 }
             }
         }
